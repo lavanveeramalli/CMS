@@ -1,0 +1,7 @@
+
+<?php
+$currenttime=time();
+$date=strftime("%y-%m-%d %H:%i:%s",$currenttime)
+
+
+?>
